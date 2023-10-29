@@ -3,10 +3,10 @@ import requests
 import json
 
 # Your Google Custom Search API Key
-api_key = "AIzaSyAvWCfFiTwjVMR9BRi2uGQYxew0nyn0Sgo"
+api_key = "xyz"
 
 # Your Custom Search Engine ID
-cx = "06f500a591d3b47aa"
+cx = "xyz"
 
 # Function to fetch top 5 competitors using Google Search API
 def fetch_competitors(keywords):
